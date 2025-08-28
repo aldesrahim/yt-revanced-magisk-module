@@ -42,6 +42,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 version = "8.30.54"
 
 [YouTube-Extended]
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 patches-version = "v5.10.1-dev.2"
